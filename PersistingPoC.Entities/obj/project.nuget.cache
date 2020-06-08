@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NJ+UfBoV8lyPHH8C6LHmdUt0nBnmTV1PgWD9Mri9m3uUSpsQekAZE4fca6f8kDuW8jOQFAc1XI9p/vxabsIEEQ==",
+  "success": true,
+  "projectFilePath": "E:\\Proyectos\\Crushbank\\PoC\\ConnectWisePersisting\\PersistingPoC\\PersistingPoC.Entities\\PersistingPoC.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\j\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Service\bin\Debug\netcoreapp3.1\PersistingPoC.Repository.dll
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Service\obj\Debug\netcoreapp3.1\PersistingPoC.Service.csprojAssemblyReference.cache
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Service\obj\Debug\netcoreapp3.1\PersistingPoC.Service.AssemblyInfoInputs.cache
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Service\obj\Debug\netcoreapp3.1\PersistingPoC.Service.AssemblyInfo.cs
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Service\bin\Debug\netcoreapp3.1\PersistingPoC.Service.deps.json
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Service\bin\Debug\netcoreapp3.1\PersistingPoC.Service.dll
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Service\bin\Debug\netcoreapp3.1\PersistingPoC.Service.pdb
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Service\bin\Debug\netcoreapp3.1\PersistingPoC.Entities.dll
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Service\bin\Debug\netcoreapp3.1\PersistingPoC.Entities.pdb
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Service\bin\Debug\netcoreapp3.1\PersistingPoC.Repository.pdb
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Service\obj\Debug\netcoreapp3.1\PersistingPoC.Service.csproj.CopyComplete
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Service\obj\Debug\netcoreapp3.1\PersistingPoC.Service.dll
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Service\obj\Debug\netcoreapp3.1\PersistingPoC.Service.pdb
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Service\obj\Debug\netcoreapp3.1\PersistingPoC.Service.csproj.CoreCompileInputs.cache

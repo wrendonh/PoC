@@ -1,0 +1,16 @@
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Process\bin\Debug\netcoreapp3.1\PersistingPoC.Process.deps.json
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Process\bin\Debug\netcoreapp3.1\PersistingPoC.Process.dll
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Process\bin\Debug\netcoreapp3.1\PersistingPoC.Process.pdb
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Process\bin\Debug\netcoreapp3.1\PersistingPoC.Entities.dll
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Process\bin\Debug\netcoreapp3.1\PersistingPoC.Repository.dll
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Process\bin\Debug\netcoreapp3.1\PersistingPoC.Service.dll
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Process\bin\Debug\netcoreapp3.1\PersistingPoC.Entities.pdb
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Process\bin\Debug\netcoreapp3.1\PersistingPoC.Service.pdb
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Process\bin\Debug\netcoreapp3.1\PersistingPoC.Repository.pdb
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Process\obj\Debug\netcoreapp3.1\PersistingPoC.Process.csprojAssemblyReference.cache
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Process\obj\Debug\netcoreapp3.1\PersistingPoC.Process.csproj.CoreCompileInputs.cache
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Process\obj\Debug\netcoreapp3.1\PersistingPoC.Process.AssemblyInfoInputs.cache
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Process\obj\Debug\netcoreapp3.1\PersistingPoC.Process.AssemblyInfo.cs
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Process\obj\Debug\netcoreapp3.1\PersistingPoC.Process.csproj.CopyComplete
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Process\obj\Debug\netcoreapp3.1\PersistingPoC.Process.dll
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Process\obj\Debug\netcoreapp3.1\PersistingPoC.Process.pdb

@@ -1,0 +1,15 @@
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Repository\bin\Debug\netcoreapp3.1\PersistingPoC.Repository.deps.json
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Repository\bin\Debug\netcoreapp3.1\PersistingPoC.Repository.dll
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Repository\obj\Debug\netcoreapp3.1\PersistingPoC.Repository.csprojAssemblyReference.cache
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Repository\obj\Debug\netcoreapp3.1\PersistingPoC.Repository.AssemblyInfoInputs.cache
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Repository\obj\Debug\netcoreapp3.1\PersistingPoC.Repository.AssemblyInfo.cs
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Repository\bin\Debug\netcoreapp3.1\PersistingPoC.Repository.runtimeconfig.json
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Repository\bin\Debug\netcoreapp3.1\PersistingPoC.Repository.runtimeconfig.dev.json
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Repository\bin\Debug\netcoreapp3.1\PersistingPoC.Repository.pdb
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Repository\bin\Debug\netcoreapp3.1\PersistingPoC.Entities.dll
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Repository\bin\Debug\netcoreapp3.1\PersistingPoC.Entities.pdb
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Repository\obj\Debug\netcoreapp3.1\PersistingPoC.Repository.csproj.CopyComplete
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Repository\obj\Debug\netcoreapp3.1\PersistingPoC.Repository.dll
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Repository\obj\Debug\netcoreapp3.1\PersistingPoC.Repository.pdb
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Repository\obj\Debug\netcoreapp3.1\PersistingPoC.Repository.genruntimeconfig.cache
+E:\Proyectos\Crushbank\PoC\ConnectWisePersisting\PersistingPoC\PersistingPoC.Repository\obj\Debug\netcoreapp3.1\PersistingPoC.Repository.csproj.CoreCompileInputs.cache

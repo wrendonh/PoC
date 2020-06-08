@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>dotnet-PersistingPoC-4F66842F-3866-4FFB-85F3-86F27D4CF292</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.SignalR" Version="1.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="3.1.4" />
+    <PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="3.1.4" />
+    <PackageReference Include="MongoDB.Driver" Version="2.10.4" />
+    <PackageReference Include="Serilog.AspNetCore" Version="3.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PersistingPoC.Entities\PersistingPoC.Entities.csproj" />
+    <ProjectReference Include="..\PersistingPoC.Repository\PersistingPoC.Repository.csproj" />
+    <ProjectReference Include="..\PersistingPoC.Service\PersistingPoC.Service.csproj" />
+  </ItemGroup>
+</Project>

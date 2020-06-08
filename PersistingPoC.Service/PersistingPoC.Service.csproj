@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PersistingPoC.Entities\PersistingPoC.Entities.csproj" />
+    <ProjectReference Include="..\PersistingPoC.Repository\PersistingPoC.Repository.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="connectwise.sdk" Version="1.0.1" />
+    <PackageReference Include="Crushbank.Common" Version="1.0.4" />
+    <PackageReference Include="Crushbank.Core" Version="1.0.5" />
+    <PackageReference Include="EasyCaching.InMemory" Version="0.8.9" />
+    <PackageReference Include="EasyCaching.Redis" Version="0.8.9" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.7" />
+    <PackageReference Include="Microsoft.AspNetCore.SignalR.Core" Version="1.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Redis" Version="2.2.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="RestSharp" Version="106.11.4" />
+  </ItemGroup>
+
+</Project>
